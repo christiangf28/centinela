@@ -1,0 +1,51 @@
+id,nombre,edad,sexo,diagnostico,cie10,fecha_ingreso,fecha_alta,los_dias,unidad,comorbilidades,readmision_30d,indice_riesgo,procedimiento_principal
+P-1001,María González,72,F,Neumonía Adquirida en Comunidad,J18.9,2025-01-03,2025-01-12,9,UCI,3,No,0.81,Ventilación mecánica
+P-1002,Carlos Muñoz,55,M,Infarto Agudo al Miocardio,I21.0,2025-01-05,2025-01-10,5,Coronaria,2,No,0.67,Angioplastia primaria
+P-1003,Ana Reyes,68,F,EPOC Exacerbado,J44.1,2025-01-06,2025-01-15,9,UCI,4,Sí,0.88,Broncodilatadores IV
+P-1004,Pedro Soto,44,M,Apendicitis Aguda,K35.8,2025-01-08,2025-01-10,2,General,0,No,0.14,Apendicectomía laparoscópica
+P-1005,Rosa Martínez,81,F,Fractura de Cadera,S72.0,2025-01-09,2025-01-21,12,General,3,Sí,0.79,Artroplastia total cadera
+P-1006,Luis Herrera,60,M,ACV Isquémico,I63.5,2025-01-10,2025-01-22,12,UCI,2,No,0.76,Trombólisis IV
+P-1007,Carmen López,49,F,Colecistitis Aguda,K81.0,2025-01-11,2025-01-14,3,General,1,No,0.28,Colecistectomía laparoscópica
+P-1008,Jorge Vargas,76,M,Insuficiencia Cardíaca,I50.0,2025-01-12,2025-01-20,8,Coronaria,4,Sí,0.85,Diuresis forzada
+P-1009,Patricia Fuentes,53,F,Diabetes complicada,E11.6,2025-01-13,2025-01-18,5,General,2,No,0.52,Insulinoterapia intensiva
+P-1010,Rodrigo Castro,38,M,Traumatismo craneoencefálico,S06.3,2025-01-14,2025-01-19,5,UCI,1,No,0.61,Monitoreo PIC
+P-1011,Beatriz Silva,65,F,Sepsis,A41.9,2025-01-15,2025-01-28,13,UCI,3,Sí,0.92,Antibióticos IV + vasopresores
+P-1012,Andrés Morales,57,M,Neumonía,J18.9,2025-01-16,2025-01-22,6,General,1,No,0.55,Antibióticos orales
+P-1013,Claudia Rojas,42,F,Pielonefritis,N10,2025-01-17,2025-01-20,3,General,0,No,0.19,Antibióticos IV
+P-1014,Manuel Díaz,79,M,EPOC,J44.1,2025-01-18,2025-01-30,12,UCI,5,Sí,0.93,Ventilación no invasiva
+P-1015,Susana Pérez,66,F,Infarto Agudo al Miocardio,I21.9,2025-01-20,2025-01-26,6,Coronaria,3,No,0.72,Angioplastia + stent
+P-1016,Francisco Jara,51,M,Hernia inguinal complicada,K41.3,2025-01-21,2025-01-24,3,General,0,No,0.21,Hernioplastía
+P-1017,Elena Vega,70,F,ACV hemorrágico,I61.0,2025-01-22,2025-02-04,13,UCI,2,Sí,0.87,Craniectomía descompresiva
+P-1018,Pablo Núñez,45,M,Pancreatitis aguda,K85.1,2025-01-23,2025-01-30,7,General,1,No,0.58,Soporte nutricional
+P-1019,Verónica Torres,58,F,Insuficiencia renal aguda,N17.9,2025-01-24,2025-02-01,8,UCI,3,No,0.74,Hemodiálisis
+P-1020,Ricardo Espinoza,83,M,Neumonía aspirativa,J69.0,2025-01-25,2025-02-07,13,UCI,4,Sí,0.94,Ventilación mecánica
+P-1021,Mónica Álvarez,47,F,Apendicitis,K35.8,2025-01-27,2025-01-29,2,General,0,No,0.12,Apendicectomía
+P-1022,Sergio Contreras,74,M,Fractura vertebral,S12.9,2025-01-28,2025-02-06,9,General,2,No,0.69,Vertebroplastía
+P-1023,Isabel Ramírez,61,F,Colecistitis,K81.0,2025-01-29,2025-02-01,3,General,1,No,0.31,Colecistectomía
+P-1024,Óscar Gómez,78,M,ICC descompensada,I50.1,2025-01-30,2025-02-10,11,Coronaria,5,Sí,0.91,Marcapasos temporal
+P-1025,Alejandra Flores,39,F,Apendicitis perforada,K35.2,2025-02-01,2025-02-06,5,General,0,No,0.38,Cirugía abierta + lavado
+P-1026,Hernán Campos,69,M,Neumonía,J18.9,2025-02-02,2025-02-09,7,General,2,No,0.63,Antibióticos IV
+P-1027,Gloria Mena,54,F,Sepsis urinaria,A41.5,2025-02-03,2025-02-12,9,UCI,2,No,0.77,Antibióticos + fluidos
+P-1028,Jaime Araya,82,M,ACV isquémico,I63.3,2025-02-04,2025-02-16,12,UCI,3,Sí,0.89,Rehabilitación neurológica
+P-1029,Cecilia Bravo,46,F,Pancreatitis,K85.0,2025-02-05,2025-02-10,5,General,0,No,0.41,Ayuno + analgesia
+P-1030,Tomás Pizarro,73,M,EPOC + Neumonía,J44.1,2025-02-06,2025-02-18,12,UCI,4,Sí,0.90,Ventilación mecánica
+P-1031,Miriam Sandoval,59,F,Infarto,I21.0,2025-02-07,2025-02-13,6,Coronaria,2,No,0.68,Trombolisis
+P-1032,Diego Olivares,33,M,Traumatismo abdominal,S36.0,2025-02-08,2025-02-13,5,General,0,No,0.44,Laparotomía exploradora
+P-1033,Pilar Gutiérrez,67,F,Fractura cadera,S72.1,2025-02-09,2025-02-20,11,General,3,No,0.78,Artroplastia
+P-1034,Ernesto Lagos,77,M,Insuficiencia cardíaca,I50.0,2025-02-10,2025-02-20,10,Coronaria,4,Sí,0.86,Diuréticos IV
+P-1035,Natalia Herrera,41,F,Colecistitis,K81.9,2025-02-11,2025-02-14,3,General,0,No,0.17,Colecistectomía laparoscópica
+P-1036,Víctor Cárdenas,70,M,Neumonía,J18.9,2025-02-12,2025-02-19,7,General,2,No,0.64,Antibióticos
+P-1037,Marcela Valenzuela,56,F,Pielonefritis,N10,2025-02-13,2025-02-16,3,General,1,No,0.22,Antibióticos IV
+P-1038,Mauricio Ibáñez,85,M,Sepsis,A41.9,2025-02-14,2025-02-27,13,UCI,5,Sí,0.96,Antibióticos + UCI completo
+P-1039,Carolina Riquelme,48,F,Apendicitis,K35.8,2025-02-15,2025-02-17,2,General,0,No,0.13,Apendicectomía laparoscópica
+P-1040,Arturo Medina,64,M,ACV isquémico,I63.4,2025-02-16,2025-02-25,9,UCI,2,No,0.75,Anticoagulación
+P-1041,Lorena Tapia,52,F,EPOC,J44.0,2025-02-17,2025-02-23,6,General,2,No,0.57,Broncodilatadores
+P-1042,Emilio Vera,80,M,Fractura fémur,S72.3,2025-02-18,2025-02-29,11,General,3,Sí,0.82,Enclavijamiento intramedular
+P-1043,Andrea Molina,37,F,Pancreatitis leve,K85.0,2025-02-19,2025-02-22,3,General,0,No,0.20,Soporte nutricional
+P-1044,Gonzalo Peña,71,M,Infarto,I21.1,2025-02-20,2025-02-26,6,Coronaria,3,No,0.70,Angioplastia
+P-1045,Soledad Ríos,63,F,ICC,I50.1,2025-02-21,2025-03-01,8,Coronaria,3,No,0.76,Diuréticos + monitoreo
+P-1046,Rodrigo Bustos,43,M,Hernia complicada,K41.3,2025-02-22,2025-02-25,3,General,0,No,0.18,Hernioplastía
+P-1047,Margarita Fuentes,76,F,Neumonía + sepsis,J18.9,2025-02-23,2025-03-08,13,UCI,4,Sí,0.93,Ventilación + antibióticos
+P-1048,Felipe Muñoz,50,M,Colangitis,K83.0,2025-02-24,2025-02-29,5,General,1,No,0.48,CPRE + antibióticos
+P-1049,Silvia Cortés,69,F,ACV hemorrágico,I61.1,2025-02-25,2025-03-09,12,UCI,2,Sí,0.86,Neurocirugía
+P-1050,Héctor Zambrano,88,M,Neumonía aspirativa,J69.0,2025-02-26,2025-03-11,13,UCI,5,Sí,0.97,Ventilación mecánica paliativa

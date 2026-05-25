@@ -1,0 +1,31 @@
+id,rut,nombre,edad,sexo,especialidad,prestacion,cie10,dias_espera,garantia,prioridad,estado,fecha_ingreso,establecimiento_origen,comuna
+LE-001,12.345.678-9,María González,58,F,Traumatología,Artroplastia total rodilla,M17.1,412,GES,1,vencida,2024-03-15,CESFAM La Granja,La Granja
+LE-002,9.876.543-2,Carlos Muñoz,71,M,Cardiología,Cateterismo diagnóstico,I25.1,89,GES,2,alerta,2025-02-19,Hospital Padre Hurtado,San Ramón
+LE-003,15.432.100-K,Ana Reyes,44,F,Oftalmología,Cirugía de catarata,H26.9,201,GES,1,vencida,2024-11-02,CESFAM La Florida,La Florida
+LE-004,8.765.432-1,Pedro Soto,66,M,Urología,Prostatectomía radical,C61,47,No GES,3,normal,2025-03-30,CESFAM Puente Alto,Puente Alto
+LE-005,11.222.333-4,Rosa Martínez,52,F,Traumatología,Artroscopia de hombro,M75.1,310,No GES,2,critica,2024-06-28,CESFAM La Pintana,La Pintana
+LE-006,14.555.666-7,Luis Herrera,39,M,Cirugía General,Colecistectomía laparoscópica,K80.2,62,GES,2,alerta,2025-03-04,CESFAM San Bernardo,San Bernardo
+LE-007,7.888.999-0,Carmen López,63,F,Cardiología,Implante de marcapasos,I44.2,28,GES,1,normal,2025-04-08,CESFAM El Bosque,El Bosque
+LE-008,16.111.222-3,Jorge Vargas,75,M,Oftalmología,Cirugía de retina,H33.0,178,GES,1,vencida,2024-12-05,CESFAM Maipú,Maipú
+LE-009,13.444.555-6,Patricia Fuentes,49,F,Ginecología,Histerectomía,D25.9,95,No GES,2,alerta,2025-02-10,CESFAM Cerrillos,Cerrillos
+LE-010,6.777.888-9,Rodrigo Castro,57,M,Neurocirugía,Discectomía lumbar,M51.1,220,No GES,2,critica,2024-10-15,CESFAM Lo Espejo,Lo Espejo
+LE-011,17.333.444-5,Beatriz Silva,41,F,Traumatología,Artroscopia rodilla,M23.6,73,No GES,3,normal,2025-03-01,CESFAM Pedro Aguirre Cerda,PAC
+LE-012,5.666.777-8,Andrés Morales,68,M,Urología,Litotripsia renal,N20.0,44,GES,3,normal,2025-04-02,CESFAM La Cisterna,La Cisterna
+LE-013,18.222.333-4,Claudia Rojas,55,F,Cardiología,Holter + ecocardiograma,I10,38,No GES,3,normal,2025-04-08,CESFAM San Miguel,San Miguel
+LE-014,4.555.666-7,Manuel Díaz,72,M,Oftalmología,Trabeculectomía glaucoma,H40.1,265,GES,1,vencida,2024-08-20,CESFAM Lo Prado,Lo Prado
+LE-015,19.111.222-3,Susana Pérez,46,F,Cirugía General,Hernioplastía inguinal,K40.9,55,No GES,3,normal,2025-03-22,CESFAM Quinta Normal,Quinta Normal
+LE-016,3.444.555-6,Francisco Jara,79,M,Traumatología,Artroplastia cadera,M16.1,380,GES,1,vencida,2024-05-10,CESFAM Recoleta,Recoleta
+LE-017,20.000.111-2,Elena Vega,34,F,Neurología,EEG + resonancia,G40.9,29,No GES,3,normal,2025-04-17,CESFAM Independencia,Independencia
+LE-018,2.333.444-5,Pablo Núñez,61,M,Cardiología,Cardioversión eléctrica,I48,67,GES,2,alerta,2025-03-10,CESFAM Conchalí,Conchalí
+LE-019,21.000.222-3,Verónica Torres,53,F,Ginecología,Laparoscopía diagnóstica,N80.0,88,No GES,2,alerta,2025-02-17,CESFAM Huechuraba,Huechuraba
+LE-020,1.222.333-4,Ricardo Espinoza,70,M,Urología,RTU prostática,N40,108,GES,2,vencida,2025-01-28,CESFAM Quilicura,Quilicura
+LE-021,22.000.333-4,Mónica Álvarez,44,F,Traumatología,Cirugía manguito rotador,M75.1,193,No GES,2,critica,2024-11-13,CESFAM Renca,Renca
+LE-022,11.333.444-5,Sergio Contreras,67,M,Oftalmología,Vitrectomía,H43.1,145,GES,1,vencida,2025-01-01,CESFAM Pudahuel,Pudahuel
+LE-023,22.444.555-6,Isabel Ramírez,51,F,Cirugía General,Tiroidectomía,E04.1,76,No GES,2,alerta,2025-03-05,CESFAM Cerro Navia,Cerro Navia
+LE-024,10.555.666-7,Óscar Gómez,73,M,Cardiología,Cateterismo + stent,I25.5,112,GES,1,vencida,2025-01-24,CESFAM Lo Barnechea,Lo Barnechea
+LE-025,23.444.555-6,Alejandra Flores,38,F,Ginecología,Miomectomía,D25.1,61,No GES,3,alerta,2025-03-16,CESFAM Vitacura,Vitacura
+LE-026,9.555.666-7,Hernán Campos,64,M,Neurocirugía,Microcirugía espinal,M47.8,175,No GES,2,critica,2024-12-21,CESFAM Las Condes,Las Condes
+LE-027,24.333.444-5,Gloria Mena,58,F,Traumatología,Artrodesis tobillo,M19.0,234,No GES,2,critica,2024-09-27,CESFAM Ñuñoa,Ñuñoa
+LE-028,8.444.555-6,Jaime Araya,77,M,Cardiología,Ablación arritmia,I49.0,54,GES,2,alerta,2025-03-23,CESFAM Providencia,Providencia
+LE-029,25.222.333-4,Cecilia Bravo,43,F,Oftalmología,Cirugía estrabismo,H50.0,39,GES,3,normal,2025-04-07,CESFAM Macul,Macul
+LE-030,7.333.444-5,Tomás Pizarro,80,M,Traumatología,Artroplastia rodilla bilateral,M17.0,445,GES,1,vencida,2024-01-31,CESFAM Peñalolén,Peñalolén
